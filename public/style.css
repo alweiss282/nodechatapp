@@ -16,7 +16,6 @@ body {
 }
 
 
-
 form {
   background: #000000;
   padding: 3px;
@@ -51,6 +50,11 @@ form button {
 #messages li {
   padding: 5px 10px;
 }
+
+#attendance {
+  font: 20px;
+}
+
 
 #messages li:nth-child(odd) {
   background: #b3ffb3;
